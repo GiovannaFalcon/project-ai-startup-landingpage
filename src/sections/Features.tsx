@@ -7,6 +7,8 @@ import Image from "next/image";
 import productImage from "@/assets/product-image.png";
 import { Url } from "next/dist/shared/lib/router/router";
 import {
+  Component,
+  ComponentPropsWithoutRef,
   CustomComponentPropsWithRef,
   useEffect,
   useRef,
@@ -50,7 +52,7 @@ const tabs = [
 
 const FeatureTab = (
   props: (typeof tabs)[number] &
-    CustomComponentPropsWithRef<"div"> & { selected: boolean }
+    ComponentPropsWithoutRef <"div"> & { selected: boolean }
 ) => {
   const tabRef = useRef<HTMLDivElement>(null);
   const dotLottieRef = useRef<DotLottieCommonPlayer>(null);
