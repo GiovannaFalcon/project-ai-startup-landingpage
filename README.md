@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 AI Startup Landing Page
 
-## Getting Started
+<img width="1920" height="1080" alt="Preview do Projeto" src="https://github.com/user-attachments/assets/3a1e985b-fbee-4844-9d14-8351b2f331ae" />
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👩‍💻 About Me
+Hello! I’m Giovanna S. Falcon, passionate about technology and currently transitioning to become a Full Stack Developer.
+My goal is to create dynamic and modern digital experiences while continuously learning and growing in the programming world.
+This project is part of my journey to develop skills and build a strong portfolio for future opportunities in web development.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📌 **GitHub:** [GiovannaFalcon](https://github.com/GiovannaFalcon)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 📖 About the Project
+This project is a landing page for a fictional tech startup.
+It was created with the purpose of practicing and applying advanced front-end development concepts, using modern tools like React, Next.js, Tailwind CSS, and Framer Motion.
 
-## Learn More
+✔ **Goals:**  
+I. Simulate a modern and responsive page for startups.
+II. Learn about advanced animations and smooth transitions with Framer Motion.
+III. Improve skills with Next.js and React componentization.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✨ Key Features
+I. Modern and responsive layout built with Tailwind CSS
+II. Smooth and interactive animations using Framer Motion
+III. Scalable structure with Next.js
+IV. Design inspired by real startup landing pages
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠 Technologies Used
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+
+##📚 What I Learned
+This project allowed me to:
+I. Gain a deeper understanding of Next.js and its routing structure.
+II. Create smooth and modern animations with Framer Motion.
+III. Improve writing utility-first CSS with Tailwind.
+
+---
+
+## 🔗 Contact
+If you’d like to follow my journey or exchange ideas about programming:
+📌 GitHub: GiovannaFalcon
+📌 Instagram: (@la.giiovanna [https://www.instagram.com/la.giiovanna])
+
+---
+
+✨ *Thank you for checking out my project! More updates and improvements coming soon.*
