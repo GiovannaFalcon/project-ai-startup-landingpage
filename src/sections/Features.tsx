@@ -52,7 +52,7 @@ const tabs = [
 
 const FeatureTab = (
   props: (typeof tabs)[number] &
-    ComponentPropsWithoutRef <"div"> & { selected: boolean }
+    React.HTMLAttributes<HTMLDivElement> & { selected: boolean }
 ) => {
   const tabRef = useRef<HTMLDivElement>(null);
   const dotLottieRef = useRef<DotLottieCommonPlayer>(null);
